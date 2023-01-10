@@ -3,7 +3,7 @@ import images from './images.json';
 
 export default function Gallery() {
   return (
-    <div className="w-full flex-col bg-beige items-center flex justify-center md:p-2 p-6">
+    <div className="w-full flex-col bg-beige items-center flex justify-center p-6">
       <p className=" text-blackish  text-4xl underline font-semibold p-10">
         Gallery
       </p>

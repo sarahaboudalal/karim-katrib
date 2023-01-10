@@ -14,8 +14,8 @@ export default function About() {
         </p>
         <p className="md:text-xl text-lg">
           I have been modeling for the last 3 years. During this time, I took
-          part in filming in different directions and worked with clothing
-          brands.
+          part in filming in different directions and worked with different
+          clothing brands.
         </p>
       </div>
       <img

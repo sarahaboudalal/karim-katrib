@@ -13,7 +13,7 @@ export default function Colors({ gridSpan }) {
         alt="karim katrib"
         className="md:w-[450px] lg:h-fit lg:p-8"
       />
-      <div className="flex flex-col text-grey justify-center px-7 lg:pt-0 pt-3 lg:text-start text-center lg:text-3xl text-2xl">
+      <div className="flex flex-col text-blackish justify-center px-7 lg:pt-0 pt-3 lg:text-start text-center lg:text-3xl text-2xl">
         <p>
           <strong>Skin Tone:</strong> White
         </p>

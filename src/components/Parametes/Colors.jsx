@@ -11,7 +11,7 @@ export default function Colors({ gridSpan }) {
       <img
         src="https://media.discordapp.net/attachments/1054797763348541583/1062373151348109312/image13.jpeg"
         alt="karim katrib"
-        className="lg:w-[450px] lg:h-fit lg:p-8"
+        className="md:w-[450px] lg:h-fit lg:p-8"
       />
       <div className="flex flex-col text-grey justify-center px-7 lg:pt-0 pt-3 lg:text-start text-center lg:text-3xl text-2xl">
         <p>

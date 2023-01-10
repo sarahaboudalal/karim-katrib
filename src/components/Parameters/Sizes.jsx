@@ -15,13 +15,13 @@ export default function Sizes({ gridSpan }) {
       />
       <div className="flex flex-col text-blackish justify-center px-7 lg:pt-0 pt-3 lg:text-start text-center lg:text-3xl text-2xl">
         <p>
-          <strong>Height:</strong> 183
+          <strong>Height:</strong> 183 cm
         </p>
         <p>
-          <strong>Weight:</strong> 60
+          <strong>Weight:</strong> 60 kg
         </p>
         <p>
-          <strong>Shoe Size:</strong> 40
+          <strong>Shoe Size:</strong> 40 EU
         </p>
       </div>
     </div>

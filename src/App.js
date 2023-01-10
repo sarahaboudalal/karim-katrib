@@ -1,5 +1,6 @@
 import About from './components/About';
 import Header from './components/Header';
+import Parameters from './components/Parametes/Parameters';
 import './index.css';
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div>
       <Header />
       <About />
+      <Parameters />
     </div>
   );
 }

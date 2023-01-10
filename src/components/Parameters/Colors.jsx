@@ -4,7 +4,7 @@ export default function Colors({ gridSpan }) {
   return (
     <div
       className={[
-        'w-full lg:flex-row flex-col  items-center flex justify-start lg:p-2 p-10',
+        'w-full lg:flex-row flex-col  items-center flex justify-start lg:p-2 p-4',
         gridSpan,
       ].join(' ')}
     >

@@ -1,4 +1,5 @@
 import About from './components/About';
+import Contact from './components/Contact';
 import Gallery from './components/Gallery/Gallery';
 import Header from './components/Header';
 import Parameters from './components/Parametes/Parameters';
@@ -11,6 +12,7 @@ function App() {
       <About />
       <Parameters />
       <Gallery />
+      <Contact />
     </div>
   );
 }

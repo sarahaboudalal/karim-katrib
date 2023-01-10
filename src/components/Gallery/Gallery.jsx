@@ -9,7 +9,13 @@ export default function Gallery() {
       </p>
       <div className="grid lg:grid-cols-4 md:grid-cols-3 grid-cols-2 items-center justify-items-center justify-center  gap-4">
         {images.map((img) => {
-          return <img src={img.image} alt={img.id} className="" />;
+          return (
+            <img
+              src={img.image}
+              alt={img.id}
+              className="md:w-[450px] object-scale-down"
+            />
+          );
         })}
       </div>
     </div>

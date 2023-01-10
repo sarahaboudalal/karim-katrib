@@ -18,7 +18,7 @@ export default function Colors({ gridSpan }) {
           <strong>Skin Tone:</strong> White
         </p>
         <p>
-          <strong>Hair Color:</strong> Red
+          <strong>Hair Color:</strong> Light Brown
         </p>
         <p>
           <strong>Eye Color:</strong> Hazel

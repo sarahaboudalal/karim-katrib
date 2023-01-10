@@ -10,7 +10,7 @@ export default function Contact() {
         href="tel:+971 76 571 081"
         className="underline md:inline md:text-2xl text-lg text-semibold italic"
       >
-        +971 76 571 081
+        +961 76 571 081
       </a>
     </div>
   );

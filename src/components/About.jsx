@@ -2,7 +2,10 @@ import React from 'react';
 
 export default function About() {
   return (
-    <div className="w-full md:flex-row flex-col bg-beige items-center flex justify-center md:p-2 p-10">
+    <div
+      id="about"
+      className="w-full h-screen md:flex-row flex-col bg-beige items-center flex justify-center md:p-2 p-10"
+    >
       <div className="text-blackish text-justify md:p-8  p-3 flex flex-col justify-center md:w-96 max-w-[465px]">
         <p className="text-4xl underline font-semibold pb-10">About Me</p>
         <p className="pb-3 md:text-xl text-lg">

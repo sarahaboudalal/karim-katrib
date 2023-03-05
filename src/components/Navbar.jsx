@@ -4,7 +4,7 @@ import { AiOutlineClose } from 'react-icons/ai';
 
 export default function Navbar({ open = false, setOpen }) {
   return (
-    <nav className="bg-blackish px-4 sm:px-12 md:py-6 py-9 fixed w-full z-20 top-0 left-0 shadow-md ">
+    <nav className="bg-blackish px-4 sm:px-12 md:py-6 py-10 fixed w-full z-20 top-0 left-0 shadow-md ">
       <div className="container flex flex-wrap md:flex-row flex-col md:justify-center justify-start md:items-center items-start mx-auto">
         <div className="flex items-center">
           <button

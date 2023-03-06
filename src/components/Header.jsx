@@ -2,7 +2,10 @@ import React from 'react';
 
 export default function Header() {
   return (
-    <div className="w-full md:flex-row flex-col bg-blackish items-center flex justify-center md:p-3 px-5 py-10">
+    <div
+      id="header"
+      className="w-full h-screen md:flex-row flex-col bg-blackish items-center flex justify-center md:p-3 px-5 py-10"
+    >
       <img
         src="https://media.discordapp.net/attachments/1054797763348541583/1080477706891841566/Karimkatrib_.jpg?width=538&height=671"
         alt="karim katrib"
